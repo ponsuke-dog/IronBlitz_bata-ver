@@ -1,0 +1,49 @@
+{
+    "stages": [
+        {
+            "isMainClear": false,
+            "SubMission1": false,
+            "SubMission2": false,
+            "SubMission3": false,
+            "CoinsFlags": [],
+            "isUnlock": true,
+            "ClearBestTime": 0.0
+        },
+        {
+            "isMainClear": false,
+            "SubMission1": false,
+            "SubMission2": false,
+            "SubMission3": false,
+            "CoinsFlags": [],
+            "isUnlock": false,
+            "ClearBestTime": 0.0
+        },
+        {
+            "isMainClear": false,
+            "SubMission1": false,
+            "SubMission2": false,
+            "SubMission3": false,
+            "CoinsFlags": [],
+            "isUnlock": false,
+            "ClearBestTime": 0.0
+        },
+        {
+            "isMainClear": false,
+            "SubMission1": false,
+            "SubMission2": false,
+            "SubMission3": false,
+            "CoinsFlags": [],
+            "isUnlock": false,
+            "ClearBestTime": 0.0
+        },
+        {
+            "isMainClear": false,
+            "SubMission1": false,
+            "SubMission2": false,
+            "SubMission3": false,
+            "CoinsFlags": [],
+            "isUnlock": false,
+            "ClearBestTime": 0.0
+        }
+    ]
+}
